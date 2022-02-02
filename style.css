@@ -1,4 +1,8 @@
-p{
+h1{
     background-color: darkolivegreen;
     text-decoration-style: dotted;
+    grid-auto-columns:center;
+}
+p{
+    background-color:aquamarine;
 }
