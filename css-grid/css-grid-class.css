@@ -1,0 +1,8 @@
+.contenedor {
+    border: 5px solid blue;
+    background-color: aquamarine;
+}
+.item {
+    border: 5px solid red;
+    font-size: 4rem;
+}
