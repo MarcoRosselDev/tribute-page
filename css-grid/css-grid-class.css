@@ -2,6 +2,10 @@
     border: 5px solid blue;
     background-color: aquamarine;
     display: grid;
+    grid-template-rows: 150px 150px 150px;
+    grid-template-columns: 150px 150px;
+    grid-auto-flow: column;
+    gap: 20px;
 }
 .item {
     border: 5px solid red;
