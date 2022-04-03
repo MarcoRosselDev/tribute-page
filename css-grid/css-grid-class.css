@@ -6,8 +6,12 @@
     grid-template-columns: 150px 150px;
     grid-auto-flow: column;
     gap: 20px;
+    place-content: center;
 }
 .item {
     border: 5px solid red;
     font-size: 4rem;
+    justify-self: end;
+    align-self: end;
+    background-color: blueviolet;
 }
